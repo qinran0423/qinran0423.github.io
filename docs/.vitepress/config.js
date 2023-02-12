@@ -1,5 +1,4 @@
 export default {
-	base: '/writing-article/',
 	title: "Mick's Blog",
 	description: "记录一些东西",
 	themeConfig: {

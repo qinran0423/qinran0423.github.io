@@ -10,6 +10,5 @@ npm run docs:build
 cd docs/.vitepress/dist
 
 # 如果是部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
-
-cd -
+git push -f git@github.com:qinran0423/qinran0423.github.io.git main
+cd -å
